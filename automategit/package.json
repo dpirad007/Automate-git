@@ -1,6 +1,7 @@
 {
   "name": "automategit",
   "version": "0.1.0",
+  "homepage": "https://dpirad007.github.io/Automate-git/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -8,6 +9,7 @@
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.19.2",
     "framer-motion": "^2.5.5",
+    "gh-pages": "^3.1.0",
     "nodemon": "^2.0.4",
     "react": "^16.13.1",
     "react-animated-tree": "^1.0.10",
@@ -20,7 +22,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
