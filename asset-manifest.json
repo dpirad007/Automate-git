@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Automate-git/static/css/main.0cdd8b35.chunk.css",
+    "main.js": "/Automate-git/static/js/main.b53a0e07.chunk.js",
+    "main.js.map": "/Automate-git/static/js/main.b53a0e07.chunk.js.map",
+    "runtime-main.js": "/Automate-git/static/js/runtime-main.e82b96ba.js",
+    "runtime-main.js.map": "/Automate-git/static/js/runtime-main.e82b96ba.js.map",
+    "static/css/2.da3a6d41.chunk.css": "/Automate-git/static/css/2.da3a6d41.chunk.css",
+    "static/js/2.6ad38553.chunk.js": "/Automate-git/static/js/2.6ad38553.chunk.js",
+    "static/js/2.6ad38553.chunk.js.map": "/Automate-git/static/js/2.6ad38553.chunk.js.map",
+    "index.html": "/Automate-git/index.html",
+    "precache-manifest.e8f47750c3677d9cfac2c430c1464a14.js": "/Automate-git/precache-manifest.e8f47750c3677d9cfac2c430c1464a14.js",
+    "service-worker.js": "/Automate-git/service-worker.js",
+    "static/css/2.da3a6d41.chunk.css.map": "/Automate-git/static/css/2.da3a6d41.chunk.css.map",
+    "static/css/main.0cdd8b35.chunk.css.map": "/Automate-git/static/css/main.0cdd8b35.chunk.css.map",
+    "static/js/2.6ad38553.chunk.js.LICENSE.txt": "/Automate-git/static/js/2.6ad38553.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e82b96ba.js",
+    "static/css/2.da3a6d41.chunk.css",
+    "static/js/2.6ad38553.chunk.js",
+    "static/css/main.0cdd8b35.chunk.css",
+    "static/js/main.b53a0e07.chunk.js"
+  ]
+}
