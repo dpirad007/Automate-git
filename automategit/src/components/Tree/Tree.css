@@ -1,0 +1,41 @@
+.window {
+  color: white;
+}
+
+.treeview {
+  margin-left: 30px;
+  margin: 30px;
+}
+
+.treeview > .toggle:hover {
+  color: #77defd;
+  fill: #77defd;
+}
+
+.search-box {
+  display: flex;
+  justify-content: center;
+}
+
+.search-box input {
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  margin: 20px;
+  height: 30px;
+}
+
+.search-box button {
+  color: white;
+  width: 100px;
+  height: 30px;
+  outline: none;
+  border: none;
+  background-color: #8105d8;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.search-box button:hover {
+  transform: scale(0.95, 0.95);
+}
